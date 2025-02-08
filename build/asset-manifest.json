@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/It_Company_Web/static/css/main.81644e84.css",
+    "main.js": "/It_Company_Web/static/js/main.19958335.js",
+    "static/js/146.acdf3ab9.chunk.js": "/It_Company_Web/static/js/146.acdf3ab9.chunk.js",
+    "static/media/About.jpg": "/It_Company_Web/static/media/About.507c721509a18e29c5b9.jpg",
+    "static/media/Port.jpg": "/It_Company_Web/static/media/Port.72106d2a5edd2351e75c.jpg",
+    "static/media/Ouerservices.jpg": "/It_Company_Web/static/media/Ouerservices.8f920945c6cbe4f0470d.jpg",
+    "static/media/christopher-gower-m_HRfLhgABo-unsplash.jpg": "/It_Company_Web/static/media/christopher-gower-m_HRfLhgABo-unsplash.d1ff635a064f70e25516.jpg",
+    "static/media/Contact.jpg": "/It_Company_Web/static/media/Contact.8293be302e59849ed69b.jpg",
+    "index.html": "/It_Company_Web/index.html",
+    "main.81644e84.css.map": "/It_Company_Web/static/css/main.81644e84.css.map",
+    "main.19958335.js.map": "/It_Company_Web/static/js/main.19958335.js.map",
+    "146.acdf3ab9.chunk.js.map": "/It_Company_Web/static/js/146.acdf3ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81644e84.css",
+    "static/js/main.19958335.js"
+  ]
+}
