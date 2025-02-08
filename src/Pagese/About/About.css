@@ -1,0 +1,14 @@
+#abouttitle {
+    color: rgb(255, 174, 0);
+}
+
+#strong {
+    color: rgb(120, 180, 236);
+
+}
+
+#cardd {
+
+    background-image: linear-gradient(180.5deg, rgba(46, 255, 171, 1) 12.3%, rgba(252, 251, 222, 0.46) 92%);
+    color: black;
+}

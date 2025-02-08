@@ -1,0 +1,28 @@
+nav {
+  /* background-color: #2563eb;  */
+  background-color: black;
+  height: auto;
+}
+
+#a {
+  color: white;
+}
+
+#a:hover {
+  color: yellow;
+  text-decoration: overline;
+}
+
+#name {
+  color: white;
+}
+
+#name:hover {
+  color: grey;
+}
+
+@media (max-width: 640px) {
+  #ul {
+    display: none;
+  }
+}
